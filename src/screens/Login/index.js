@@ -12,7 +12,7 @@ const Login = () => {
 
         <TouchableOpacity>
             <Text style={style.text}>
-                Entrar
+                Entrar :)
             </Text>
         </TouchableOpacity>
 
